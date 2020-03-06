@@ -64,7 +64,7 @@
   ],
   "dependencies": {
     "@node-red/editor-api": "0.20.7",
-    "@node-red/nodes": "0.20.7",
+    "@node-red/nodes": "git+https://github.com/csy1983/node-red-core-nodes.git",
     "@node-red/runtime": "0.20.7",
     "@node-red/util": "0.20.7",
     "basic-auth": "2.0.1",
